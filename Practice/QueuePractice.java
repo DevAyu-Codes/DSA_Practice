@@ -9,7 +9,7 @@ Commands:
 offer(value) or add(value) to push the object to queue, also known as enqueue
 poll() or remove() to remove the first element, also known as dequeue
 peek() or element() to get value of the first element without removing, element will through error if queue is empty
-empty() to check if the queue is empty 
+isEmpty() to check if the queue is empty 
 size() to check the size of the queue
 
 Usage:
@@ -48,7 +48,7 @@ public class QueuePractice{
         System.out.println("Is queue empty?: "+queue.isEmpty()); // False as queue is not empty
         System.out.println("Size of the queue is "+queue.size()); // To get the size of the queue
         System.out.println("is Harold in queue?: "+queue.contains("Harold")); // To check if an element is in the queue
-        System.out.println("what is the index of Harold in queue?: "+getQueueIndex(queue, "Harold")); // To check if an element is in the queue
+        System.out.println("what is the index of Harold in queue?: "+getQueueIndex(queue, "Harold")); // To get the index of an element in queue
 
         String inFront = queue.peek(); // Can assign the first element's value withut dequeue
         System.out.println("The person first in the line is "+inFront); // Printing the assigned value

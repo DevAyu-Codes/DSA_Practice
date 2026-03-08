@@ -8,7 +8,12 @@ The codes have comments to explain whats going on with the code and about that p
 ---
 ## Timeline
 7th March: Stack and Queue
+8th March: PriorityQueue, LinkedList and Dynamic Arrays
 
 ---
-## Plans:
+## Plans
 I'll first learn to do these by the existing classes and then will start coding those classes all by the understanding of the topics.
+
+---
+## Source
+I'm learning from [BroCode's DSA Tutorial in Java](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=1333s), He's the goat fr.
