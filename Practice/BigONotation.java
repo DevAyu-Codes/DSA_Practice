@@ -33,7 +33,7 @@ public class BigONotation {
 
         startTime = System.nanoTime();  // start time by system nanoseconds
 
-        int linear = linearAddUp(1000000); // removing value at index 999999
+        int linear = linearAddUp(1000000); // summing using linear
 
         endTime = System.nanoTime(); // end time by system nanoseconds
         elapsedTime = endTime - startTime; // elapsed time by system nanoseconds
@@ -41,7 +41,7 @@ public class BigONotation {
 
         startTime = System.nanoTime();  // start time by system nanoseconds
 
-        int constant = constantAddUp(1000000); // removing value at index 999999
+        int constant = constantAddUp(1000000); // summing using constant
 
         endTime = System.nanoTime(); // end time by system nanoseconds
         elapsedTime = endTime - startTime; // elapsed time by system nanoseconds

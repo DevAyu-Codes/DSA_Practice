@@ -8,6 +8,9 @@ Here's the list of all the files:
 5. [DynamicArrayPractice](DynamicArray/DynamicArrayPractice.java) - [DynamicArray (class)](DynamicArray/DynamicArray.java)
 6. [LinkedlistVSArraylist.java](LinkedlistVSArraylist.java)
 7. [BigONotation.java](BigONotation.java)
+8. [LinearSearch.java](LinearSearch.java)
+9. [BinarySearch.java](BinarySearch.java)
+10. [InterpolationSearch.java](InterpolationSearch.java)
 
 ---
 ## Outputs:

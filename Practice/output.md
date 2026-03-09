@@ -68,3 +68,42 @@ ArrayList: 9422ns
 Linear: 8254753ns
 Constant: 3134ns
 ```
+---
+## 8. LinearSearch.java:
+```java
+Element found at index: 8
+```
+---
+## 9. Binarysearch.java:
+```java
+Middle: 499999
+Middle: 749999
+Middle: 874999
+Middle: 812499
+Middle: 781249
+Middle: 765624
+Middle: 773436
+Middle: 777342
+Middle: 779295
+Middle: 778318
+Middle: 777830
+Middle: 777586
+Middle: 777708
+Middle: 777769
+Middle: 777799
+Middle: 777784
+Middle: 777776
+Middle: 777780
+Middle: 777778
+Middle: 777777
+Target found at index: 777777
+```
+---
+## 10. InterpolationSearch.java:
+```java
+Probe: 4
+Probe: 6
+Probe: 7
+Probe: 8
+Element found at index: 8
+```

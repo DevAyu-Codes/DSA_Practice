@@ -11,7 +11,7 @@ The codes have comments to explain whats going on with the code and about that p
 
 8th March: PriorityQueue, LinkedList and Dynamic Arrays
 
-9th March: LinkedList vs ArrayList, Big O Notation
+9th March: LinkedList vs ArrayList, Big O Notation, LinearSearch, BinarySearch, InterpolationSearch
 
 ---
 ## Plans
