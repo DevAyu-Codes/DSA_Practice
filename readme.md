@@ -8,7 +8,10 @@ The codes have comments to explain whats going on with the code and about that p
 ---
 ## Timeline
 7th March: Stack and Queue
+
 8th March: PriorityQueue, LinkedList and Dynamic Arrays
+
+9th March: LinkedList vs ArrayList, Big O Notation
 
 ---
 ## Plans

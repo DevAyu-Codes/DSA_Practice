@@ -6,6 +6,8 @@ Here's the list of all the files:
 3. [PriorityPractice](PriorityQueuePractice.java)
 4. [LinkedListPractice](LinkedListPractice.java)
 5. [DynamicArrayPractice](DynamicArray/DynamicArrayPractice.java) - [DynamicArray (class)](DynamicArray/DynamicArray.java)
+6. [LinkedlistVSArraylist.java](LinkedlistVSArraylist.java)
+7. [BigONotation.java](BigONotation.java)
 
 ---
 ## Outputs:

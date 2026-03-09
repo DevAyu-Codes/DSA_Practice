@@ -55,3 +55,16 @@ Empty: false
 Size: 3
 Capacity: 5
 ```
+---
+## 6. LinkedlisVSArraylist.java:
+```java
+LinkedList: 18447ns
+ArrayList: 9422ns
+```
+---
+## 7. BigONotation.java:
+![Screenshot](Diagrams/BigONotation.png)
+```java
+Linear: 8254753ns
+Constant: 3134ns
+```
